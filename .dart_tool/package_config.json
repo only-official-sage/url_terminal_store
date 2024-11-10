@@ -1,0 +1,17 @@
+{
+  "configVersion": 2,
+  "packages": [
+    {
+      "name": "terminal_url_store",
+      "rootUri": "./",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
+    }
+  ],
+  "generated": "2024-10-30T10:58:53.505597Z",
+  "generator": "pub",
+  "generatorVersion": "3.4.3",
+  "flutterRoot": "file:///C:/dev/flutter",
+  "flutterVersion": "3.22.2",
+  "pubCache": "file:///C:/Users/sage/AppData/Local/Pub/Cache"
+}

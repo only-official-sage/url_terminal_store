@@ -1,0 +1,21 @@
+name: your_project_name
+description: A new Dart project
+version: 1.0.0
+
+environment:
+  sdk: '>=2.19.0 <4.0.0' # Specify the Dart SDK version range
+
+dependencies:
+  # Add any package dependencies here
+  #http: ^0.15.0  # Example dependency (e.g., for making HTTP requests)
+
+dev_dependencies:
+  # Dependencies for development and testing
+  #test: ^1.21.0  # Provides testing support for your Dart code
+
+# Optional, set the minimum Dart version if you're using specific features
+publish_to: 'none'  # Set to 'none' to prevent accidental publication if it's a private project
+
+# Executable entry point (optional)
+executables:
+  # main: bin/main.dart  # Points to a Dart file in the bin/ directory (adjust as needed)
